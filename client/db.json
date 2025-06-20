@@ -1,0 +1,377 @@
+{
+  "users": [
+    {
+      "id": "10",
+      "email": "admin@example.com",
+      "password": "123456",
+      "isAdmin": true
+    },
+    {
+      "id": "e89f",
+      "email": "esther128979@gmail.com",
+      "password": "123456Ee@",
+      "isAdmin": false
+    },
+    {
+      "id": "9be4",
+      "email": "esther128971@gmail.com",
+      "password": "4444444444Aa@",
+      "isAdmin": false
+    },
+    {
+      "id": "39d1",
+      "email": "aaaaaa@gmail.com",
+      "password": "12344321Aa@",
+      "isAdmin": false
+    },
+    {
+      "id": "9593",
+      "email": "esther12897911@gmail.com",
+      "password": "12344321Ss@",
+      "isAdmin": false
+    },
+    {
+      "id": "7ceb",
+      "email": "tzippystilerman@gmail.com",
+      "password": "123456Ee@",
+      "isAdmin": false
+    },
+    {
+      "id": "1b89",
+      "email": "tzippystilerman1@gmail.com",
+      "password": "123456Ee@",
+      "isAdmin": false
+    },
+    {
+      "id": "2508",
+      "email": "esther128911179@gmail.com",
+      "password": "123456Ee@",
+      "isAdmin": false
+    },
+    {
+      "id": "f091",
+      "email": "kmrenana@gmail.com",
+      "password": "Ar145145%",
+      "isAdmin": false
+    }
+  ],
+  "products": [
+    {
+      "id": "6",
+      "name": "Butter croissant",
+      "category": "Pastries",
+      "price": 13,
+      "image": "https://images.ricardocuisine.com/services/recipes/croissant1.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Rich Chocolate Cake",
+      "category": "Cakes",
+      "price": 50,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1043451_11-4713959.jpg?quality=90&resize=440,400"
+    },
+    {
+      "id": "2",
+      "name": "Whole Spelt Bread",
+      "category": "Breads",
+      "price": 20,
+      "image": "http://mydeliciousblog.com/wp-content/uploads/2020/04/Spelt-Bread.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chocolate Chip Cookies",
+      "category": "Cookies",
+      "price": 15,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+    },
+    {
+      "id": "4",
+      "name": "Mini Cheese Pastry",
+      "category": "Pastries",
+      "price": 12,
+      "image": "https://www.halfbakedharvest.com/wp-content/uploads/2020/02/Flaky-Broccoli-Cheddar-Soup-Mini-Pies-5-700x1050.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Cinnamon Roll",
+      "category": "Pastries",
+      "price": 10,
+      "image": "https://i.imgur.com/zOtqtUj.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Butter croissant",
+      "category": "Pastries",
+      "price": 12,
+      "image": "https://images.ricardocuisine.com/services/recipes/croissant1.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Rich Chocolate Cake",
+      "category": "Cakes",
+      "price": 40,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1043451_11-4713959.jpg?quality=90&resize=440,400"
+    },
+    {
+      "id": "8",
+      "name": "Whole Spelt Bread",
+      "category": "Breads",
+      "price": 20,
+      "image": "http://mydeliciousblog.com/wp-content/uploads/2020/04/Spelt-Bread.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Chocolate Chip Cookies",
+      "category": "Cookies",
+      "price": 15,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+    },
+    {
+      "id": "10",
+      "name": "Mini Cheese Pastry",
+      "category": "Pastries",
+      "price": 12,
+      "image": "https://www.halfbakedharvest.com/wp-content/uploads/2020/02/Flaky-Broccoli-Cheddar-Soup-Mini-Pies-5-700x1050.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Cinnamon Roll",
+      "category": "Pastries",
+      "price": 10,
+      "image": "https://i.imgur.com/zOtqtUj.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Almond Danish",
+      "category": "Pastries",
+      "price": 14,
+      "image": "https://images.squarespace-cdn.com/content/v1/59b9b4d8197aea401322fd78/1613595447484-XSADKK6QROMS3LSPNDMV/01390E6E-3EAD-4DF9-A66C-1DE4BC9909DF.jpeg"
+    },
+    {
+      "id": "13",
+      "name": "Lemon Drizzle Cake",
+      "category": "Cakes",
+      "price": 35,
+      "image": "https://images.getrecipekit.com/20230413134855-lemon-20drizzle.jpg?aspect_ratio=16:9&quality=90&"
+    },
+    {
+      "id": "14",
+      "name": "Sourdough Loaf",
+      "category": "Breads",
+      "price": 22,
+      "image": "https://www.cravethegood.com/wp-content/uploads/2022/01/cinnamon-raisin-sourdough-bread-35.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Oatmeal Raisin Cookies",
+      "category": "Cookies",
+      "price": 13,
+      "image": "https://lilluna.com/wp-content/uploads/2023/02/oatmeal-raisin-cookies2-resize-15.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Raspberry Tart",
+      "category": "Pastries",
+      "price": 45,
+      "image": "https://i0.wp.com/frenchfoodwithlove.com/wp-content/uploads/2020/06/Raspberry-Custard-Tart-2.jpg?fit=800%2C1000&ssl=1"
+    },
+    {
+      "id": "17",
+      "name": "Carrot Cake",
+      "category": "Cakes",
+      "price": 38,
+      "image": "https://www.onceuponachef.com/images/2024/03/carrot-cake-1200x1612.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Rye Bread",
+      "category": "Breads",
+      "price": 18,
+      "image": "https://flour.co.uk/wp-content/uploads/2021/04/MarriagesDarkRyeloaf-1-e1672827142751.jpg.webp"
+    },
+    {
+      "id": "20",
+      "name": "Pain au Chocolat",
+      "category": "Pastries",
+      "price": 81,
+      "image": "https://images.unsplash.com/photo-1602351447937-745cb720612f"
+    },
+    {
+      "id": "21",
+      "name": "Red Velvet Cake",
+      "category": "Cakes",
+      "price": 24,
+      "image": "https://handletheheat.com/wp-content/uploads/2013/04/red-velvet-cake-recipe-SQUARE.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Ciabatta",
+      "category": "Breads",
+      "price": 88,
+      "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2021/01/BBB11142011840-scaled.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Apple Strudel",
+      "category": "Pastries",
+      "price": 44,
+      "image": "https://www.177milkstreet.com/assets/site/Recipes/_large/Italian-Style-Apple-Strudel.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Vanilla Sponge Cake",
+      "category": "Cakes",
+      "price": 30,
+      "image": "https://www.mygorgeousrecipes.com/wp-content/uploads/2022/06/Vanilla-Buttercream-Cake-2.jpg"
+    },
+    {
+      "id": "267d",
+      "name": "yammmi Cookie",
+      "category": "Cookies",
+      "price": 81,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/chocolate-turtle-cookies-lead-6740fe146c83f.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "id": "00f8",
+      "name": "Bread sour doe",
+      "category": "Breads",
+      "price": 33,
+      "image": "https://homebakery.ae/cdn/shop/files/GJD0500_800x.jpg?v=1716031139"
+    },
+    {
+      "id": "0a49",
+      "name": "Alfahors",
+      "category": "Cookies",
+      "price": 10,
+      "image": "https://notonlysaladblog.com/wp-content/uploads/2017/07/Alf-maicena-3-Large.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "productId": "6",
+      "rating": 4.5,
+      "userId": "e89f",
+      "id": "6429"
+    },
+    {
+      "productId": "1",
+      "rating": 4,
+      "userId": "10",
+      "id": "5668"
+    },
+    {
+      "productId": "3",
+      "rating": 3.8,
+      "userId": "9be4",
+      "id": "b507"
+    },
+    {
+      "id": "81b1",
+      "productId": "1",
+      "userId": "e89f",
+      "rating": 5
+    },
+    {
+      "id": "0982",
+      "productId": "2",
+      "userId": "e89f",
+      "rating": 5
+    },
+    {
+      "id": "d490",
+      "productId": "9",
+      "userId": "e89f",
+      "rating": 4
+    },
+    {
+      "id": "4b09",
+      "productId": "6",
+      "userId": "f091",
+      "rating": 2
+    },
+    {
+      "id": "1e1e",
+      "productId": "8",
+      "userId": "f091",
+      "rating": 3
+    },
+    {
+      "id": "313a",
+      "productId": "2",
+      "userId": "f091",
+      "rating": 1
+    },
+    {
+      "id": "63eb",
+      "productId": "1",
+      "userId": "f091",
+      "rating": 3
+    },
+    {
+      "id": "fb37",
+      "productId": "10",
+      "userId": "f091",
+      "rating": 5
+    },
+    {
+      "id": "2cd8",
+      "productId": "13",
+      "userId": "f091",
+      "rating": 3
+    },
+    {
+      "id": "fc3f",
+      "productId": "22",
+      "userId": "f091",
+      "rating": 2
+    },
+    {
+      "id": "1b2b",
+      "productId": "5",
+      "userId": "f091",
+      "rating": 4
+    },
+    {
+      "id": "2d3e",
+      "productId": "4",
+      "userId": "f091",
+      "rating": 4
+    },
+    {
+      "id": "c715",
+      "productId": "25",
+      "userId": "f091",
+      "rating": 5
+    },
+    {
+      "id": "e76f",
+      "productId": "26",
+      "userId": "10",
+      "rating": 4
+    },
+    {
+      "id": "40cc",
+      "productId": "4",
+      "userId": "10",
+      "rating": 3
+    },
+    {
+      "id": "fa25",
+      "productId": "25",
+      "userId": "e89f",
+      "rating": 4
+    },
+    {
+      "id": "c6b7",
+      "productId": "24",
+      "userId": "10",
+      "rating": 3
+    },
+    {
+      "id": "c24c",
+      "productId": "267d",
+      "userId": "10",
+      "rating": 2
+    }
+  ]
+}

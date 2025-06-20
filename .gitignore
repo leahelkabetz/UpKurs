@@ -79,6 +79,11 @@ web_modules/
 .env.production.local
 .env.local
 
+# Explicit ignore for secrets in specific folders
+gpt-server/.env
+server/.env
+backend/.env
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache

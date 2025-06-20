@@ -1,0 +1,692 @@
+{
+  "users": [
+    {
+      "id": "100",
+      "username": "לאה אלקבץ",
+      "email": "leah23531@gmail.com",
+      "password": "Leah23531!",
+      "isAdmin": true
+    },
+    {
+      "username": "חיים אלקבץ",
+      "email": "c@g.c",
+      "password": "Leah23531!",
+      "id": "101"
+    },
+    {
+      "id": "102",
+      "username": "ירדן מרקוביץ",
+      "email": "shqd19@gmail.com",
+      "password": "r+4CxtIzPq",
+      "isAdmin": false
+    },
+    {
+      "id": "103",
+      "username": "אדם מושקוביץ",
+      "email": "gkhg-ykhy@brhm-nvymn.com",
+      "password": "Lx7LHHngD#",
+      "isAdmin": false
+    },
+    {
+      "id": "104",
+      "username": "רני סואעד",
+      "email": "yvsp75@yahoo.com",
+      "password": "@4KfA(aUCQ",
+      "isAdmin": false
+    },
+    {
+      "id": "105",
+      "username": "שלום סלומון",
+      "email": "yyr97@yqb.org",
+      "password": "+8Ya4RPKyD",
+      "isAdmin": false
+    },
+    {
+      "id": "106",
+      "username": "מיכאלה צברי",
+      "email": "bd83@tsdvq.com",
+      "password": "J2(P2MGj^F",
+      "isAdmin": false
+    },
+    {
+      "id": "107",
+      "username": "אוריאל בר",
+      "email": "mrym92@yahoo.com",
+      "password": "rS7CYYoi%n",
+      "isAdmin": false
+    },
+    {
+      "id": "108",
+      "username": "מאיה נטע זועבי",
+      "email": "vz68@gmail.com",
+      "password": "1ENEZ4eg%o",
+      "isAdmin": false
+    },
+    {
+      "id": "109",
+      "username": "ביאן גנאים",
+      "email": "oshmvny@rvznpld-nsr.com",
+      "password": "8c%eD7uA+j",
+      "isAdmin": false
+    },
+    {
+      "id": "110",
+      "username": "עידו כהן",
+      "email": "jlvy@hotmail.com",
+      "password": "+03XGz7fyZ",
+      "isAdmin": false
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "רשתות נוירונים",
+      "category": "בינה מלאכותית",
+      "description": "קורסים בתחום למידת מכונה, אלגוריתמים חכמים ו-AI.",
+      "price": 281,
+      "students": 693,
+      "rating": 3.6,
+      "badge": "למתקדמים",
+      "image": "https://cont-edu.technion.ac.il/wp-content/uploads/2023/08/AI-ENGINEER.jpg"
+    },
+    {
+      "id": "2",
+      "title": "למידת מכונה מתקדמת",
+      "category": "בינה מלאכותית",
+      "description": "קורסים בתחום למידת מכונה, אלגוריתמים חכמים ו-AI.",
+      "price": 510,
+      "students": 319,
+      "rating": 4.5,
+      "badge": "למתקדמים",
+      "image": "https://sm.pcmag.com/pcmag_il/photo/default/tmvnh1_cnr4.jpg"
+    },
+    {
+      "id": "3",
+      "title": "למידת מכונה מתקדמת",
+      "category": "בינה מלאכותית",
+      "description": "קורסים בתחום למידת מכונה, אלגוריתמים חכמים ו-AI.",
+      "price": 421,
+      "students": 356,
+      "rating": 4.8,
+      "badge": "מומלץ",
+      "image": "https://www.weblineindia.com/wp-content/uploads/2025/01/AI-Vs.-ML-Vs.-Deep-Learning-Vs.-Generative-AI.jpg"
+    },
+    {
+      "id": "4",
+      "title": "רשתות נוירונים",
+      "category": "בינה מלאכותית",
+      "description": "קורסים בתחום למידת מכונה, אלגוריתמים חכמים ו-AI.",
+      "price": 470,
+      "students": 952,
+      "rating": 4,
+      "badge": "חדש",
+      "image": "https://www.openu.ac.il/Lists/MediaServer_Images/Academic/more_than_degree/ai_header.jpg"
+    },
+    {
+      "id": "5",
+      "title": "רשתות נוירונים",
+      "category": "בינה מלאכותית",
+      "description": "קורסים בתחום למידת מכונה, אלגוריתמים חכמים ו-AI.",
+      "price": 293,
+      "students": 339,
+      "rating": 3.8,
+      "badge": "פופולרי",
+      "image": "https://easypress.co.il/wp-content/uploads/2024/02/future-artificial-intelligence-robot-cyborg.webp"
+    },
+    {
+      "id": "6",
+      "title": "מבוא ל-DevOps",
+      "category": "דבאופס",
+      "description": "קורסים בתחום DevOps, אוטומציה, CI/CD וניהול תשתיות.",
+      "price": 210,
+      "students": 729,
+      "rating": 3.6,
+      "badge": "מומלץ",
+      "image": "https://rt-ed.co.il/wp-content/uploads/2021/09/depositphotos_262085900-stock-photo-devops-agile-development-concept-on.jpg"
+    },
+    {
+      "id": "7",
+      "title": "CI/CD עם Jenkins",
+      "category": "דבאופס",
+      "description": "קורסים בתחום DevOps, אוטומציה, CI/CD וניהול תשתיות.",
+      "price": 296,
+      "students": 384,
+      "rating": 4,
+      "badge": "מומלץ",
+      "image": "https://activemind.co.il/wp-content/uploads/2023/12/How-to-learn-DevOps.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Kubernetes מעשי",
+      "category": "דבאופס",
+      "description": "קורסים בתחום DevOps, אוטומציה, CI/CD וניהול תשתיות.",
+      "price": 409,
+      "students": 317,
+      "rating": 4,
+      "badge": "חדש",
+      "image": "https://infinitylabs.co.il/wp-content/uploads/2023/11/five-reasons-to-learn-devops-scaled.jpg"
+    },
+    {
+      "id": "9",
+      "title": "CI/CD עם Jenkins",
+      "category": "דבאופס",
+      "description": "קורסים בתחום DevOps, אוטומציה, CI/CD וניהול תשתיות.",
+      "price": 143,
+      "students": 598,
+      "rating": 4.8,
+      "badge": "חדש",
+      "image": "https://cdn-chlga.nitrocdn.com/TjmxtNPqgsTXMyoDPuLNSUNOLrQxdllt/assets/images/optimized/rev-1e4842b/www.kernelios.com/wp-content/uploads/elementor/thumbs/devops-qzlq4ajt52m2c7rowbkg691y7itktmfdt5esjdm94o.webp"
+    },
+    {
+      "id": "10",
+      "title": "מבוא ל-DevOps",
+      "category": "דבאופס",
+      "description": "קורסים בתחום DevOps, אוטומציה, CI/CD וניהול תשתיות.",
+      "price": 507,
+      "students": 756,
+      "rating": 3.8,
+      "badge": "למתקדמים",
+      "image": "https://www.johnbryce.co.il/wp-content/uploads/2023/06/devops-1.jpg"
+    },
+    {
+      "id": "11",
+      "title": "React למתחילים",
+      "category": "פיתוח פרונטאנד",
+      "description": "קורסים לפיתוח ממשקים, HTML/CSS, React ועוד.",
+      "price": 263,
+      "students": 534,
+      "rating": 4.2,
+      "badge": "מומלץ",
+      "image": "https://www.pionet.co.il/files/pionet/methodology/img1.jpg"
+    },
+    {
+      "id": "12",
+      "title": "עיצוב עם Tailwind",
+      "category": "פיתוח פרונטאנד",
+      "description": "קורסים לפיתוח ממשקים, HTML/CSS, React ועוד.",
+      "price": 274,
+      "students": 344,
+      "rating": 4.7,
+      "badge": "למתקדמים",
+      "image": "https://is.biu.ac.il/sites/is/files/shared/%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%20%D7%A4%D7%99%D7%AA%D7%95%D7%97%20Web%20%D7%95%D7%90%D7%A4%D7%9C%D7%99%D7%A7%D7%A6%D7%99%D7%95%D7%AA%20Web%20%D7%91%D7%9E%D7%A1%D7%92%D7%A8%D7%AA%20%D7%AA%D7%95%D7%90%D7%A8%20%D7%A8%D7%90%D7%A9%D7%95%D7%9F.jpg"
+    },
+    {
+      "id": "13",
+      "title": "עיצוב עם Tailwind",
+      "category": "פיתוח פרונטאנד",
+      "description": "קורסים לפיתוח ממשקים, HTML/CSS, React ועוד.",
+      "price": 492,
+      "students": 484,
+      "rating": 3.1,
+      "badge": "למתקדמים",
+      "image": "https://courseat.online/wp-content/uploads/2024/09/full-stack-development.jpg"
+    },
+    {
+      "id": "14",
+      "title": "React למתחילים",
+      "category": "פיתוח פרונטאנד",
+      "description": "קורסים לפיתוח ממשקים, HTML/CSS, React ועוד.",
+      "price": 314,
+      "students": 270,
+      "rating": 3.4,
+      "badge": "פופולרי",
+      "image": "https://www.weblineindia.com/wp-content/uploads/2023/09/Reactjs-for-Web-Development-and-Apps.jpg"
+    },
+    {
+      "id": "15",
+      "title": "עיצוב עם Tailwind",
+      "category": "פיתוח פרונטאנד",
+      "description": "קורסים לפיתוח ממשקים, HTML/CSS, React ועוד.",
+      "price": 600,
+      "students": 753,
+      "rating": 3.2,
+      "badge": "חדש",
+      "image": "https://rt-ed.co.il/wp-content/uploads/2021/08/25876189_7100345.webp"
+    },
+    {
+      "id": "16",
+      "title": "פיתוח REST API",
+      "category": "פיתוח בקאנד",
+      "description": "קורסים בצד שרת – Node.js, Python, מסדי נתונים ועוד.",
+      "price": 243,
+      "students": 59,
+      "rating": 3.2,
+      "badge": "חדש",
+      "image": "https://techmonster.co.il/wp-content/uploads/2025/03/DALLE2025-03-1009.38.46-Twopeoplestudyingabackenddevelopmentcoursetogetherontheirlaptopswithacloserfocusontheirfaces.Theyaresittingatamoderndeskina.webp"
+    },
+    {
+      "id": "17",
+      "title": "Node.js מעשי",
+      "category": "פיתוח בקאנד",
+      "description": "קורסים בצד שרת – Node.js, Python, מסדי נתונים ועוד.",
+      "price": 145,
+      "students": 59,
+      "rating": 3.8,
+      "badge": "פופולרי",
+      "image": "https://i0.wp.com/logicode.study/wp-content/uploads/2023/02/Logicode-Route-Backend_tiny.jpg?fit=1920%2C1280&ssl=1"
+    },
+    {
+      "id": "18",
+      "title": "Node.js מעשי",
+      "category": "פיתוח בקאנד",
+      "description": "קורסים בצד שרת – Node.js, Python, מסדי נתונים ועוד.",
+      "price": 525,
+      "students": 422,
+      "rating": 4.5,
+      "badge": "מומלץ",
+      "image": "https://rt-ed.co.il/wp-content/uploads/2021/05/DALL%C2%B7E-2024-12-16-14.42.04-An-enhanced-and-visually-striking-image-representing-Deep-Learning-with-TensorFlow.-The-design-now-includes-multiple-interconnected-neural-networks-e-1.webp"
+    },
+    {
+      "id": "19",
+      "title": "Node.js מעשי",
+      "category": "פיתוח בקאנד",
+      "description": "קורסים בצד שרת – Node.js, Python, מסדי נתונים ועוד.",
+      "price": 364,
+      "students": 324,
+      "rating": 3.9,
+      "badge": "חדש",
+      "image": "https://www.weblineindia.com/wp-content/uploads/2023/12/NodeJS-for-Web-Development.jpg"
+    },
+    {
+      "id": "20",
+      "title": "פיתוח REST API",
+      "category": "פיתוח בקאנד",
+      "description": "קורסים בצד שרת – Node.js, Python, מסדי נתונים ועוד.",
+      "price": 512,
+      "students": 306,
+      "rating": 4.2,
+      "badge": "פופולרי",
+      "image": "https://i0.wp.com/logicode.study/wp-content/uploads/2023/02/Logicode-Route-Software-Development_tiny.jpg?fit=1024%2C683&ssl=1"
+    },
+    {
+      "id": "21",
+      "title": "יסודות הסייבר",
+      "category": "אבטחת מידע",
+      "description": "קורסים בנושא הגנת סייבר, הצפנה, בדיקות חדירה ועוד.",
+      "price": 167,
+      "students": 103,
+      "rating": 4.2,
+      "badge": "למתקדמים",
+      "image": "https://www.ecomschool.co.il/wp-content/uploads/2025/03/%D7%90%D7%91%D7%98%D7%97%D7%AA-%D7%9E%D7%99%D7%93%D7%A2-%D7%95%D7%A1%D7%99%D7%99%D7%91%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-1.jpg"
+    },
+    {
+      "id": "22",
+      "title": "הצפנה מעשית",
+      "category": "אבטחת מידע",
+      "description": "קורסים בנושא הגנת סייבר, הצפנה, בדיקות חדירה ועוד.",
+      "price": 303,
+      "students": 582,
+      "rating": 4.9,
+      "badge": "חדש",
+      "image": "https://www.ecomschool.co.il/wp-content/uploads/2022/09/%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99-%D7%A1%D7%99%D7%99%D7%91%D7%A8-%D7%9C%D7%9E%D7%99-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-.jpeg"
+    },
+    {
+      "id": "23",
+      "title": "בדיקות חדירה",
+      "category": "אבטחת מידע",
+      "description": "קורסים בנושא הגנת סייבר, הצפנה, בדיקות חדירה ועוד.",
+      "price": 589,
+      "students": 673,
+      "rating": 4.2,
+      "badge": "למתקדמים",
+      "image": "https://sunspark.org/wp-content/uploads/2015/10/Depositphotos_56545139_m-2015.jpg"
+    },
+    {
+      "id": "24",
+      "title": "הצפנה מעשית",
+      "category": "אבטחת מידע",
+      "description": "קורסים בנושא הגנת סייבר, הצפנה, בדיקות חדירה ועוד.",
+      "price": 332,
+      "students": 120,
+      "rating": 5,
+      "badge": "חדש",
+      "image": "https://techmonster.co.il/wp-content/uploads/2024/08/DALLE2024-08-1913.48.19-Aphoto-realisticimageofapersonwearingahoodieusingalaptopandsmartphonewithadigitalsecuritylocksymbolonbothscreens.Thepersonis.webp"
+    },
+    {
+      "id": "25",
+      "title": "יסודות הסייבר",
+      "category": "אבטחת מידע",
+      "description": "קורסים בנושא הגנת סייבר, הצפנה, בדיקות חדירה ועוד.",
+      "price": 241,
+      "students": 93,
+      "rating": 4.9,
+      "badge": "מומלץ",
+      "image": "https://see-cyber.com/wp-content/uploads/2022/01/closeup-of-hands-working-on-computer-keyboard.jpg"
+    },
+    {
+      "id": "26",
+      "title": "ניהול תשתיות עם Terraform",
+      "category": "ענן ומחשוב",
+      "description": "קורסים בעבודה עם AWS, Azure, Docker, Kubernetes.",
+      "price": 322,
+      "students": 192,
+      "rating": 4.8,
+      "badge": "מומלץ",
+      "image": "hhttps://www.int-college.co.il/wp-content/uploads/2024/09/%D7%9E%D7%94-%D7%96%D7%94-%D7%A2%D7%A0%D7%9F.jpg"
+    },
+    {
+      "id": "27",
+      "title": "AWS מאפס",
+      "category": "ענן ומחשוב",
+      "description": "קורסים בעבודה עם AWS, Azure, Docker, Kubernetes.",
+      "price": 555,
+      "students": 61,
+      "rating": 3.3,
+      "badge": "חדש",
+      "image": "http://greenware.co.il/wp-content/uploads/2017/04/OAYTRH0.png"
+    },
+    {
+      "id": "28",
+      "title": "Docker ו-Kubernetes",
+      "category": "ענן ומחשוב",
+      "description": "קורסים בעבודה עם AWS, Azure, Docker, Kubernetes.",
+      "price": 419,
+      "students": 604,
+      "rating": 4,
+      "badge": "למתקדמים",
+      "image": "https://activate.co.il/wp-content/uploads/2020/04/%D7%9E%D7%94%D7%95-%D7%9E%D7%97%D7%A9%D7%95%D7%91-%D7%A2%D7%A0%D7%9F-%D7%9B%D7%9C-%D7%9E%D7%94-%D7%A9%D7%A6%D7%A8%D7%99%D7%9A-%D7%9C%D7%93%D7%A2%D7%AA-%D7%A2%D7%9C-%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%96%D7%95-1140x641.jpg"
+    },
+    {
+      "id": "29",
+      "title": "ניהול תשתיות עם Terraform",
+      "category": "ענן ומחשוב",
+      "description": "קורסים בעבודה עם AWS, Azure, Docker, Kubernetes.",
+      "price": 125,
+      "students": 431,
+      "rating": 4.6,
+      "badge": "למתקדמים",
+      "image": "https://one1samba.co.il/wp-content/uploads/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%A2%D7%A0%D7%9F-%D7%9C%D7%A2%D7%A1%D7%A7%D7%99%D7%9D.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Docker ו-Kubernetes",
+      "category": "ענן ומחשוב",
+      "description": "קורסים בעבודה עם AWS, Azure, Docker, Kubernetes.",
+      "price": 359,
+      "students": 130,
+      "rating": 3.2,
+      "badge": "חדש",
+      "image": "https://itcare.co.il/media/small/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%A2%D7%A0%D7%9F-%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%99%D7%9D-IT-CARE.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "201",
+      "courseId": "15",
+      "userId": "108",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "202",
+      "courseId": "7",
+      "userId": "106",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "203",
+      "courseId": "10",
+      "userId": "108",
+      "rating": 3,
+      "comment": "הקורס היה בסדר, אבל אפשר לשפר."
+    },
+    {
+      "id": "204",
+      "courseId": "4",
+      "userId": "109",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "205",
+      "courseId": "3",
+      "userId": "109",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "206",
+      "courseId": "9",
+      "userId": "110",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "207",
+      "courseId": "4",
+      "userId": "103",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "208",
+      "courseId": "8",
+      "userId": "102",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "209",
+      "courseId": "10",
+      "userId": "109",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "210",
+      "courseId": "10",
+      "userId": "110",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "211",
+      "courseId": "6",
+      "userId": "106",
+      "rating": 3,
+      "comment": "הקורס היה בסדר, אבל אפשר לשפר."
+    },
+    {
+      "id": "212",
+      "courseId": "3",
+      "userId": "109",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "213",
+      "courseId": "13",
+      "userId": "106",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "214",
+      "courseId": "6",
+      "userId": "105",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "215",
+      "courseId": "4",
+      "userId": "107",
+      "rating": 3,
+      "comment": "הקורס היה בסדר, אבל אפשר לשפר."
+    },
+    {
+      "id": "216",
+      "courseId": "7",
+      "userId": "110",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "217",
+      "courseId": "7",
+      "userId": "108",
+      "rating": 3,
+      "comment": "הקורס היה בסדר, אבל אפשר לשפר."
+    },
+    {
+      "id": "218",
+      "courseId": "7",
+      "userId": "107",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "219",
+      "courseId": "2",
+      "userId": "109",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "220",
+      "courseId": "1",
+      "userId": "103",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "221",
+      "courseId": "7",
+      "userId": "109",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "222",
+      "courseId": "15",
+      "userId": "109",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "223",
+      "courseId": "15",
+      "userId": "108",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "224",
+      "courseId": "8",
+      "userId": "102",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "225",
+      "courseId": "10",
+      "userId": "101",
+      "rating": 3,
+      "comment": "הקורס היה בסדר, אבל אפשר לשפר."
+    },
+    {
+      "id": "226",
+      "courseId": "2",
+      "userId": "109",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "227",
+      "courseId": "11",
+      "userId": "105",
+      "rating": 4,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "228",
+      "courseId": "13",
+      "userId": "103",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    },
+    {
+      "id": "229",
+      "courseId": "9",
+      "userId": "108",
+      "rating": 3,
+      "comment": "הקורס היה בסדר, אבל אפשר לשפר."
+    },
+    {
+      "id": "230",
+      "courseId": "6",
+      "userId": "106",
+      "rating": 5,
+      "comment": "קורס מעולה, מומלץ מאוד!"
+    }
+  ],
+
+
+  "feedbacks": [
+  {
+    "name": "רוני כהן",
+    "school": "מכללת הנדסאים תל אביב",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "feedback": "הקורסים היו מעולים, ההסברים ברורים והתרגולים חיזקו לי את הביטחון. ממליצה בחום!"
+  },
+  {
+    "name": "הדס אליהו",
+    "school": "המכללה האקדמית ירושלים",
+    "image": "https://randomuser.me/api/portraits/women/12.jpg",
+    "feedback": "אווירה לימודית טובה, צוות מרצים מצוין ותוכן לימוד מעודכן – פשוט מושלם!"
+  },
+  {
+    "name": "נועם ברק",
+    "school": "אוניברסיטת בן-גוריון",
+    "image": "https://randomuser.me/api/portraits/men/47.jpg",
+    "feedback": "למדתי הרבה מעבר למה שציפיתי. הקורסים מקצועיים וכוללים פרויקטים נהדרים."
+  },
+  {
+    "name": "שירה בן חיים",
+    "school": "אוניברסיטת אריאל",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "feedback": "המרצים מעולים, כל שאלה נענתה, ויש תרגולים שמכינים אותך לעבודה אמיתית."
+  },
+  {
+    "name": "אורי סבג",
+    "school": "המרכז האקדמי לב",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "feedback": "קיבלתי כלים חשובים לתחילת הדרך בתכנות. ממליץ לכל מי שרוצה להיכנס לתחום."
+  },
+  
+  {
+    "name": "לירון מזרחי",
+    "school": "המכללה האקדמית תל-חי",
+    "image": "https://randomuser.me/api/portraits/women/33.jpg",
+    "feedback": "התרגולים בקורסים היו פרקטיים מאוד ועזרו לי לבנות תיק עבודות מרשים."
+  },
+  {
+    "name": "אביב כהן",
+    "school": "אוניברסיטת תל אביב",
+    "image": "https://randomuser.me/api/portraits/men/38.jpg",
+    "feedback": "צוות מקצועי, חומר עדכני, והסברים פשוטים. ממליץ מאוד!"
+  },
+  {
+    "name": "מיכל קציר",
+    "school": "מכללת שנקר",
+    "image": "https://randomuser.me/api/portraits/women/56.jpg",
+    "feedback": "הקורסים כתובים היטב, מסודרים, ומכסים את כל מה שצריך לדעת כדי להתחיל לפתח."
+  },
+  {
+    "name": "ניצן רון",
+    "school": "אוניברסיטת חיפה",
+    "image": "https://randomuser.me/api/portraits/men/15.jpg",
+    "feedback": "הופתעתי מהאיכות הגבוהה. פשוט תענוג ללמוד כאן!"
+  },
+  {
+    "name": "הילה צור",
+    "school": "המרכז האקדמי רופין",
+    "image": "https://randomuser.me/api/portraits/women/21.jpg",
+    "feedback": "לא ציפיתי לרמה כל כך גבוהה. כל קורס היה בנוי מעולה עם תמיכה צמודה."
+  }
+
+
+]
+
+}

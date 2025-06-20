@@ -1,0 +1,42 @@
+.lds-bricks {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-bricks div {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: #00bcd4;
+  animation: lds-bricks 1.2s linear infinite;
+}
+.lds-bricks div:nth-child(1) {
+  top: 8px;
+  left: 8px;
+  background: #f44336;
+  animation-delay: 0s;
+}
+.lds-bricks div:nth-child(2) {
+  top: 8px;
+  left: 32px;
+  background: #ffeb3b;
+  animation-delay: 0.4s;
+}
+.lds-bricks div:nth-child(3) {
+  top: 32px;
+  left: 20px;
+  background: #2196f3;
+  animation-delay: 0.8s;
+}
+
+@keyframes lds-bricks {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.5);
+    opacity: 0.5;
+  }
+}

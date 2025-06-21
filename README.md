@@ -23,7 +23,7 @@ UpKurs/
 - Material UI לעיצוב מודרני ונגיש
 - json-server כשרת נתונים מקומי
 - Node.js שרת GPT (תקשורת עם OpenAI API)
-- סביבת `.env` לניהול מפתחות
+- סביבת `env.` לניהול מפתחות
 
 
 
@@ -63,7 +63,7 @@ UpKurs/
 
 ## 📄 קובץ סביבה `.env` (בתוך `gpt-server`)
 
-יש ליצור קובץ בשם `.env` בתיקיית `gpt-server` ולהכניס לתוכו:
+יש ליצור קובץ בשם `env.` בתיקיית `gpt-server` ולהכניס לתוכו:
 
 ```env
 OPENAI_API_KEY=

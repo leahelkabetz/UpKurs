@@ -68,7 +68,13 @@ UpKurs/
 ```env
 OPENAI_API_KEY=
 ```
-> ודא 
+> יש לודא שבקובץ index.js יש את השורות:
+
+```index.js
+import dotenv from 'dotenv';
+dotenv.config();
+```
+ 
 
 
 ---

@@ -94,7 +94,7 @@ node index.js
 ```powershell
 cd json-server
 npm start
-# רץ על http://localhost:3000
+# רץ על http://localhost:4000
 ```
 
 ### 3. 💻 הרצת אפליקציית React (Client)

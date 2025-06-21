@@ -10,7 +10,7 @@
 ```
 UpKurs/
 ├── client/           ← צד לקוח (React + Redux + MUI)
-├── json-server/           ← JSON Server לנתונים מקומיים
+├── json-server/      ← JSON Server לנתונים מקומיים
 ├── gpt-server/       ← שרת Node.js לתקשורת עם OpenAI API
 ├── README.md         ← הקובץ הזה
 ```
